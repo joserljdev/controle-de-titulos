@@ -1,0 +1,17 @@
+.navbar {
+	margin-bottom: 30px;
+}
+
+.my-titulo-card {
+	float: left;
+	padding-top: 3px;
+}
+
+.my-link-card {
+	float: right;
+	padding-top: 3px;
+}
+
+.btn-acoes {
+	padding: 2px;
+}
